@@ -99,6 +99,8 @@ Para ello, utilizaré la biblioteca **pandas**, que me permitirá crear un **Dat
 Carga de datos de los archivos creados anteriormente, limpia las columnas de texto eliminando prefijos innecesarios y espacios,
 normaliza las cadenas convirtiéndolas a mayúsculas,identifica las 5 marcas más populares por cantidad registrada,
 encuentra los 3 modelos más vendidos de la marca TOYOTA, analiza las 3 regiones principales con más ventas para cada uno de estos modelos.
+
+
 **NOTA:** No eliminé los duplicados porque podrían representar ventas legítimas registradas múltiples veces en el mismo día o en la misma ubicación. En lugar de asumir que todas las filas duplicadas son errores, preferí conservarlos para reflejar mejor la realidad de los datos originales y evitar eliminar información potencialmente válida. Esto es especialmente importante cuando no se dispone de un identificador único para cada registro.
 
 
