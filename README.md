@@ -20,14 +20,14 @@ Fue necesario calcular manualmente la anchura de las columnas para estructurar c
 
 **Formato de fechas:**
 Las fechas estaban en un formato que dificultaba su procesamiento. Fue necesario normalizarlas para que fueran reconocidas correctamente por Python como objetos de tipo datetime.
-
+📚
 **Duplicados y limpieza de datos:**
 Identifiqué muchas filas duplicadas, y tuve que decidir si mantenerlas como representaciones válidas de ventas múltiples o eliminarlas para un análisis más limpio.
 
 **Prefijos y datos adicionales en columnas:**
 En algunas columnas, como la de localidades, nombre de marca u modelo, había prefijos alfanuméricos que necesitaban ser eliminados para obtener el nombre correcto.
 
-📚***Para este proyecto, se han utilizado las siguientes bibliotecas de Python:***
+***Para este proyecto, se han utilizado las siguientes bibliotecas de Python:***😊📚✨
 
 ✔️**pandas**
    
