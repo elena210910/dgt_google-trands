@@ -93,6 +93,10 @@ Ejemplo de resultado obtenido:
 ![](https://github.com/elena210910/dgt_google-trands/blob/main/foto_xlxs.PNG)
 
 
+- La siguiente etapa incluye la limpieza de datos directamente a través del código en Python. El análisis también se llevará a cabo en este entorno.
+Para ello, utilizaré la biblioteca **pandas**, que me permitirá crear un DataFrame con el que trabajaré posteriormente durante el análisis.
+
+
 
 
 
