@@ -88,7 +88,7 @@ Aunque este cambio también se puede realizar mediante código, opté por hacerl
 
 Eliminar las columnas que no son relevantes para el análisis y conservar únicamente aquellas que serán utilizadas en las etapas posteriores.
 
-El resultado sera:
+Ejemplo de resultado obtenido:
 
 ![](https://github.com/elena210910/dgt_google-trands/blob/main/foto_xlxs.PNG)
 
