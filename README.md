@@ -27,7 +27,7 @@ Identifiqué muchas filas duplicadas, y tuve que decidir si mantenerlas como rep
 **Prefijos y datos adicionales en columnas:**
 En algunas columnas, como la de localidades, nombre de marca u modelo, había prefijos alfanuméricos que necesitaban ser eliminados para obtener el nombre correcto.
 
-<u>Э**Para este proyecto, se han utilizado las siguientes bibliotecas de Python:**</u>
+<u>**Para este proyecto, se han utilizado las siguientes bibliotecas de Python:**</u>
 
 ✔️**pandas**
    
