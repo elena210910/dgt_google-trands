@@ -78,8 +78,20 @@ Luego los organizaré para trabajar con ellos directamente desde mi ordenador.
 - Ahora que los datos están disponibles, los convertimos al formato Excel, ya que trabajar con ellos en su formato original es complicado debido
 a que los datos no están estructurados.
 [Este código](https://github.com/elena210910/dgt_google-trands/blob/main/dgt_txt_to_exsel.py) automatiza el proceso de conversión de archivos TXT a formato Excel.
-Q hace el codigo: Se crea una carpeta separada que contiene todos los archivos convertidos en formato Excel, los datos se limpian de metadatos innecesarios para garantizar su calidad,
+Que hace el codigo: Se crea una carpeta separada que contiene todos los archivos convertidos en formato Excel, los datos se limpian de metadatos innecesarios para garantizar su calidad,
 se define la anchura de las columnas clave para estructurar correctamente la información, cada archivo TXT se convierte en un archivo Excel independiente, conservando el nombre original del archivo.
+
+-Dado que no contamos con una gran cantidad de datos, he decidido realizar algunas modificaciones manuales en los archivos Excel. 
+Estas modificaciones incluyen: 
+Cambiar el formato de las fechas directamente en Excel para garantizar su correcta interpretación durante el análisis.
+Aunque este cambio también se puede realizar mediante código, opté por hacerlo manualmente en esta ocasión.
+
+Eliminar las columnas que no son relevantes para el análisis y conservar únicamente aquellas que serán utilizadas en las etapas posteriores.
+
+El resultado sera:
+
+![](https://github.com/elena210910/dgt_google-trands/blob/main/foto_xlxs.PNG)
+
 
 
 
