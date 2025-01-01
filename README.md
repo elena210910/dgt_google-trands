@@ -20,7 +20,7 @@ Fue necesario calcular manualmente la anchura de las columnas para estructurar c
 
 **Formato de fechas:**
 Las fechas estaban en un formato que dificultaba su procesamiento. Fue necesario normalizarlas para que fueran reconocidas correctamente por Python como objetos de tipo datetime.
-📚
+
 **Duplicados y limpieza de datos:**
 Identifiqué muchas filas duplicadas, y tuve que decidir si mantenerlas como representaciones válidas de ventas múltiples o eliminarlas para un análisis más limpio.
 
