@@ -6,6 +6,7 @@ El propósito principal es evaluar si existe una correlación entre las matricul
 
 ## Sobre los datos obtenidos
 Nos proporcionan archivos en formato .txt correspondientes a los días desde el **2 de diciembre hasta el 26 de diciembre**, incluyendo todos los días excepto los fines de semana. Esto es lógico, ya que la DGT no opera durante los fines de semana.
+
 Un ejemplo de la estructura del archivo.
 
 ![](https://github.com/user-attachments/assets/f7bb77cf-70b9-450e-9c54-514f435b98b2)
