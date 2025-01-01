@@ -81,7 +81,7 @@ a que los datos no están estructurados.
 Que hace el codigo: Se crea una carpeta separada que contiene todos los archivos convertidos en formato Excel, los datos se limpian de metadatos innecesarios para garantizar su calidad,
 se define la anchura de las columnas clave para estructurar correctamente la información, cada archivo TXT se convierte en un archivo Excel independiente, conservando el nombre original del archivo.
 
--Dado que no contamos con una gran cantidad de datos, he decidido realizar algunas modificaciones manuales en los archivos Excel. 
+- Dado que no contamos con una gran cantidad de datos, he decidido realizar algunas modificaciones manuales en los archivos Excel. 
 Estas modificaciones incluyen: 
 Cambiar el formato de las fechas directamente en Excel para garantizar su correcta interpretación durante el análisis.
 Aunque este cambio también se puede realizar mediante código, opté por hacerlo manualmente en esta ocasión.
