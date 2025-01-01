@@ -11,6 +11,22 @@ Un ejemplo de la estructura del archivo.
 ![](https://github.com/user-attachments/assets/f7bb77cf-70b9-450e-9c54-514f435b98b2)
 
 
+Al iniciar el análisis de los archivos con Python, me encontré con varias dificultades que tuve que resolver paso a paso:
+
+**Columnas de diferentes tamaños y formatos:**
+Los archivos .txt no tenían encabezados y la distribución de las columnas variaba significativamente entre algunos días.
+Fue necesario calcular manualmente la anchura de las columnas para estructurar correctamente los datos.
+
+**Formato de fechas:**
+Las fechas estaban en un formato que dificultaba su procesamiento. Fue necesario normalizarlas para que fueran reconocidas correctamente por Python como objetos de tipo datetime.
+
+**Duplicados y limpieza de datos:**
+Identifiqué muchas filas duplicadas, y tuve que decidir si mantenerlas como representaciones válidas de ventas múltiples o eliminarlas para un análisis más limpio.
+
+**Prefijos y datos adicionales en columnas:**
+En algunas columnas, como la de localidades, nombre de marca u modelo, había prefijos alfanuméricos que necesitaban ser eliminados para obtener el nombre correcto.
+
+
 
 
 
