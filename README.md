@@ -108,4 +108,11 @@ encuentra los 3 modelos más vendidos de la marca TOYOTA, analiza las 3 regiones
 
 
 
+- En esta etapa analizaremos la evaluación del interés de búsqueda en **Google Trends.**
+
+Google Trends asigna una puntuación que varía de 0 a 100, donde un valor más alto indica un mayor interés de búsqueda en relación con los demás términos evaluados en el mismo período.
+
+A partir de esta evaluación, construiremos gráficos combinando los datos de nuestro DataFrame con los resultados de Google Trends. Nos centraremos en el análisis de las marcas con mayor cantidad de vehículos matriculados, como Toyota, que ocupa el primer lugar, y Renault, que ocupa el segundo. Además, incluiremos la marca KIA, que no logró posicionarse entre las Top 5 marcas de vehículos matriculados, para observar cómo se compara su interés de búsqueda con el número de matriculaciones.
+
+
 
