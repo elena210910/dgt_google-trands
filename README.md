@@ -71,9 +71,16 @@ Para leer y escribir datos en formato Excel.
 
 # Pasos de implementación:
 
-Dado que los archivos están en formato ZIP, primero los descomprimiré para extraerlos y tener acceso a ellos. 
+- Dado que los archivos están en formato ZIP, primero los descomprimiré para extraerlos y tener acceso a ellos. 
 Luego los organizaré para trabajar con ellos directamente desde mi ordenador.
 [Ejemplo de Codigo Python](https://github.com/elena210910/dgt_google-trands/blob/main/dgt_zip.py)
+
+- Ahora que los datos están disponibles, los convertimos al formato Excel, ya que trabajar con ellos en su formato original es complicado debido
+a que los datos no están estructurados.
+[Este código](https://github.com/elena210910/dgt_google-trands/blob/main/dgt_txt_to_exsel.py) automatiza el proceso de conversión de archivos TXT a formato Excel.
+Q hace el codigo: Se crea una carpeta separada que contiene todos los archivos convertidos en formato Excel, los datos se limpian de metadatos innecesarios para garantizar su calidad,
+se define la anchura de las columnas clave para estructurar correctamente la información, cada archivo TXT se convierte en un archivo Excel independiente, conservando el nombre original del archivo.
+
 
 
 
