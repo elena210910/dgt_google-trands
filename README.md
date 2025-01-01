@@ -28,28 +28,28 @@ Identifiqué muchas filas duplicadas, y tuve que decidir si mantenerlas como rep
 En algunas columnas, como la de localidades, nombre de marca u modelo, había prefijos alfanuméricos que necesitaban ser eliminados para obtener el nombre correcto.
 
 **Para este proyecto, se han utilizado las siguientes bibliotecas de Python:**
-1. **pandas**
+**pandas**
    
 Para leer, procesar y analizar datos de archivos Excel y archivos de texto.
 Funciones principales: read_excel, concat, groupby, value_counts, to_excel.
 
-3. **os**
+**os**
    
 Para trabajar con el sistema de archivos, buscar y procesar archivos en una carpeta.
 
-3.**re**
+**re**
 
 Para procesar cadenas y eliminar prefijos o caracteres innecesarios utilizando expresiones regulares.
 
-4.**pytrends**
+**pytrends**
 
 Para interactuar con la API de Google Trends y obtener datos sobre el interés de búsqueda.
 
-5. **plotly** (si fue utilizada para gráficos)
+**plotly** (si fue utilizada para gráficos)
    
 Para crear visualizaciones de datos interactivas.
 
-7. **openpyxl**
+**openpyxl**
    
 Para leer y escribir datos en formato Excel.
 
