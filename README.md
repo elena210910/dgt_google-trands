@@ -86,7 +86,7 @@ Estas modificaciones incluyen:
 Cambiar el formato de las fechas directamente en Excel para garantizar su correcta interpretación durante el análisis.
 Aunque este cambio también se puede realizar mediante código, opté por hacerlo manualmente en esta ocasión.
 
-Eliminar las columnas que no son relevantes para el análisis y conservar únicamente aquellas que serán utilizadas en las etapas posteriores.
+  Eliminar las columnas que no son relevantes para el análisis y conservar únicamente aquellas que serán utilizadas en las etapas posteriores.
 
 Ejemplo de resultado obtenido:
 
