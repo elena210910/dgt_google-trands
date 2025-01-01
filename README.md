@@ -41,6 +41,18 @@ Funciones principales: read_excel, concat, groupby, value_counts, to_excel.
    
 Para trabajar con el sistema de archivos, buscar y procesar archivos en una carpeta.
 
+✔️**requests**
+
+Para realizar solicitudes HTTP y descargar archivos desde la web
+
+✔️**BeautifulSoup**
+
+Para analizar y extraer información de documentos HTML.
+
+✔️**zipfile**
+
+Para trabajar con archivos ZIP, como descomprimirlos y extraer su contenido
+
 ✔️**re**
 
 Para procesar cadenas y eliminar prefijos o caracteres innecesarios utilizando expresiones regulares.
@@ -56,6 +68,13 @@ Para crear visualizaciones de datos interactivas.
 ✔️**openpyxl**
    
 Para leer y escribir datos en formato Excel.
+
+#Pasos de implementación:
+
+Dado que los archivos están en formato ZIP, primero los descomprimiré para extraerlos y tener acceso a ellos. 
+Luego los organizaré para trabajar con ellos directamente desde mi ordenador.
+[Ejemplo de Codigo Python](https://github.com/elena210910/dgt_google-trands/blob/main/dgt_zip.py)
+
 
 
 
