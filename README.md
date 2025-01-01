@@ -69,7 +69,7 @@ Para crear visualizaciones de datos interactivas.
    
 Para leer y escribir datos en formato Excel.
 
-#Pasos de implementación:
+# Pasos de implementación:
 
 Dado que los archivos están en formato ZIP, primero los descomprimiré para extraerlos y tener acceso a ellos. 
 Luego los organizaré para trabajar con ellos directamente desde mi ordenador.
