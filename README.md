@@ -137,11 +137,11 @@ A partir de esta evaluación, construiremos gráficos 📈 combinando los datos 
 
 - En esta etapa, crearemos dos tablas con las 10 principales marcas de automóviles:
 
-La primera tabla incluirá datos ***con duplicados***.📋
+La primera tabla incluirá datos [***con duplicados***.](https://github.com/elena210910/dgt_google-trands/blob/main/top_sin_duplicados.py)📋
 
 La segunda tabla contendrá datos ***sin duplicados***.📋
 
-<u>Cada tabla tendrá las siguientes columnas:</u>
+***Cada tabla tendrá las siguientes columnas:***
 
 
 **Top-Marca** — el nombre de la marca.
@@ -165,7 +165,38 @@ Este proceso nos permitirá estructurar los datos para realizar un análisis má
 
 ## Bueno, ahora, basándome en todo lo realizado, haré algunos análisis y conclusiones analíticas.
 
-✔️ Entre el **2 de diciembre y el 26 de diciembre 2024**, según los datos proporcionados por la **DGT**, se puede destacar que **Toyota** es la marca líder en el registro de vehículos nuevos durante este período. Además, dentro de los modelos, el **TOYOTA C-HR** se posiciona como el indiscutible número uno, consolidándose como el modelo más matriculado en España.
+✔️ Entre el **2 de diciembre y el 26 de diciembre 2024**, según los datos proporcionados por la **DGT**, se puede destacar que **Toyota** es la marca líder en el registro de vehículos nuevos durante este período. Además, dentro de los modelos, el **TOYOTA C-HR** se posiciona como el indiscutible número uno, consolidándose como el modelo más matriculado en este rango de fechas en España. 🌟
 
 ![](https://github.com/elena210910/dgt_google-trands/blob/main/Toyota_resized_400x300.jpg)
+
+&nbsp;
+
+✔️ Analizando los datos de las principales matriculaciones, se puede decir que **la provincia de Madrid** es la región líder. 
+
+&nbsp;
+
+✔️ Al analizar los datos con y sin duplicados, se puede concluir que los 10 automóviles líderes en**ambas tablas son los mismos**. Aunque cambian de posición, siguen perteneciendo al **top 10**.
+
+&nbsp;
+
+✔️ Ahora, observemos el gráfico para analizar si el interés de búsqueda de los usuarios está relacionado con la cantidad de matriculaciones de automóviles.
+
+Al observar los gráficos, se puede notar que, en general, las curvas se parecen ligeramente. Cuando el interés de búsqueda en Google Trends aumenta, también tienden a aumentar las matriculaciones de vehículos. Las caídas visibles en los gráficos de Google Trends suelen coincidir con los fines de semana, cuando el interés de los usuarios disminuye.
+
+Sin embargo, no es posible sacar una conclusión definitiva basándonos únicamente en estos datos, ya que el período de análisis es bastante limitado. Recordemos que los datos que tenemos corresponden exclusivamente al mes de diciembre. La correlación entre búsquedas en Google Trends y matriculaciones podría existir en cierta medida, pero no es absoluta. El análisis de un período más largo, como varios meses o incluso años, podría ofrecer una mejor perspectiva. Además, sería útil incluir otras variables contextuales, como campañas publicitarias o datos económicos, que podrían influir tanto en las búsquedas como en las ventas.
+
+También es importante considerar que algunas marcas pueden tener un interés constante en búsquedas debido a su prestigio, pero esto no siempre se traduce en altas ventas. Por ejemplo, marcas de lujo como BMW o Mercedes-Benz podrían generar mucho interés en Google, pero sus ventas dependerán de un segmento de mercado más específico.
+
+
+
+
+
+
+
+
+
+
+
+
+
 
