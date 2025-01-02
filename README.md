@@ -127,6 +127,8 @@ A partir de esta evaluación, construiremos gráficos 📈 combinando los datos 
 &nbsp;
 &nbsp;
 
+
+
 😊✅✨[Definitivamente Podemos observar el resultado visual](https://sparkling-conkies-21fc82.netlify.app/) ⬅️
 
 &nbsp;
@@ -142,11 +144,17 @@ Cada tabla tendrá las siguientes columnas:
 
 
 **Top-Marca** — el nombre de la marca.
+
 **Cantidad Marca** — el número total de vehículos registrados de esta marca.
+
 **Top-Modelo** — el modelo más popular de la marca.
+
 **Cantidad Modelo** — la cantidad de vehículos registrados de este modelo.
+
 **Localidad** — la región con el mayor número de registros para este modelo.
+
 **Cantidad Localidad** — el número de registros en dicha región.
+
 Este proceso nos permitirá estructurar los datos para realizar un análisis más detallado.
 
 
