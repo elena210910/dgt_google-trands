@@ -137,8 +137,9 @@ A partir de esta evaluación, construiremos gráficos 📈 combinando los datos 
 
 - En esta etapa, crearemos dos tablas con las 10 principales marcas de automóviles:
 
-La primera tabla incluirá datos ***con duplicados***.
-La segunda tabla contendrá datos ***sin duplicados***.
+📋La primera tabla incluirá datos ***con duplicados***.
+
+📋La segunda tabla contendrá datos ***sin duplicados***.
 
 Cada tabla tendrá las siguientes columnas:
 
