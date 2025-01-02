@@ -127,6 +127,9 @@ A partir de esta evaluación, construiremos gráficos 📈 combinando los datos 
 
 😊✅✨[Definitivamente Podemos observar el resultado final](https://sparkling-conkies-21fc82.netlify.app/) ⬅️
 
+&nbsp;
+&nbsp;
+&nbsp;
 
 - En esta etapa, crearemos dos tablas con las 10 principales marcas de automóviles:
 
