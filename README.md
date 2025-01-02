@@ -122,10 +122,11 @@ A partir de esta evaluación, construiremos gráficos 📈 combinando los datos 
 
 [Este código](https://github.com/elena210910/dgt_google-trands/blob/main/google_data.py) utiliza Google Trends para obtener el interés de búsqueda en España de las palabras clave seleccionadas (Toyota, Renault, Kia) durante el período del 2 al 26 de diciembre de 2024, coincidiendo con los datos de matriculaciones. Es importante destacar que las letras mayúsculas o minúsculas no afectan el resultado de las búsquedas.
 [Aqui tenemos un ejemplo de codigo para construir grafico interactivo](https://github.com/elena210910/dgt_google-trands/blob/main/chart.py)
-
-
-
-😊✅✨[Definitivamente Podemos observar el resultado final](https://sparkling-conkies-21fc82.netlify.app/) ⬅️
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+😊✅✨[Definitivamente Podemos observar el resultado visual](https://sparkling-conkies-21fc82.netlify.app/) ⬅️
 
 &nbsp;
 &nbsp;
@@ -135,14 +136,15 @@ A partir de esta evaluación, construiremos gráficos 📈 combinando los datos 
 
 La primera tabla incluirá datos con duplicados.
 La segunda tabla contendrá datos sin duplicados.
+
 Cada tabla tendrá las siguientes columnas:
 
-Top-Marca — el nombre de la marca.
-Cantidad Marca — el número total de vehículos registrados de esta marca.
-Top-Modelo — el modelo más popular de la marca.
-Cantidad Modelo — la cantidad de vehículos registrados de este modelo.
-Localidad — la región con el mayor número de registros para este modelo.
-Cantidad Localidad — el número de registros en dicha región.
+**Top-Marca** — el nombre de la marca.
+**Cantidad Marca** — el número total de vehículos registrados de esta marca.
+**Top-Modelo** — el modelo más popular de la marca.
+**Cantidad Modelo** — la cantidad de vehículos registrados de este modelo.
+**Localidad** — la región con el mayor número de registros para este modelo.
+**Cantidad Localidad** — el número de registros en dicha región.
 Este proceso nos permitirá estructurar los datos para realizar un análisis más detallado.
 
 
