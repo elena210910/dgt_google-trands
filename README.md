@@ -109,6 +109,11 @@ encuentra los 3 modelos más vendidos de la marca TOYOTA, analiza las 3 regiones
 
 
 
+
+
+
+
+
 - En esta etapa analizaremos la evaluación del interés de búsqueda en **Google Trends.**✨
 
 Google Trends asigna una puntuación que varía de 0 a 100, donde un valor más alto indica un mayor interés de búsqueda en relación con los demás términos evaluados en el mismo período.
