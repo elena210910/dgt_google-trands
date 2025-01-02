@@ -126,7 +126,7 @@ A partir de esta evaluación, construiremos gráficos 📈 combinando los datos 
 &nbsp;
 
 😊✅✨[Definitivamente Podemos observar el resultado visual](https://sparkling-conkies-21fc82.netlify.app/) ⬅️     
-![](https://github.com/elena210910/dgt_google-trands/blob/main/arrow_small_2.png)  
+
                                                                          
 
                                                            
@@ -137,9 +137,9 @@ A partir de esta evaluación, construiremos gráficos 📈 combinando los datos 
 
 - En esta etapa, crearemos dos tablas con las 10 principales marcas de automóviles:
 
-📋La primera tabla incluirá datos ***con duplicados***.
+La primera tabla incluirá datos ***con duplicados***.📋
 
-📋La segunda tabla contendrá datos ***sin duplicados***.
+La segunda tabla contendrá datos ***sin duplicados***.📋
 
 <u>Cada tabla tendrá las siguientes columnas:</u>
 
@@ -157,5 +157,9 @@ A partir de esta evaluación, construiremos gráficos 📈 combinando los datos 
 **Cantidad Localidad** — el número de registros en dicha región.
 
 Este proceso nos permitirá estructurar los datos para realizar un análisis más detallado.
+
+[**la tabla sin dublicados**](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Felena210910%2Fdgt_google-trands%2Frefs%2Fheads%2Fmain%2Ftop_ventas_unique.xlsx&wdOrigin=BROWSELINK)
+
+[**la tabla con duplicados**](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Felena210910%2Fdgt_google-trands%2Frefs%2Fheads%2Fmain%2Ftop_ventas.xlsx&wdOrigin=BROWSELINK) 
 
 
