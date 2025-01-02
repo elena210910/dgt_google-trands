@@ -187,6 +187,10 @@ Sin embargo, no es posible sacar una conclusión definitiva basándonos únicame
 
 También es importante considerar que algunas marcas pueden tener un interés constante en búsquedas debido a su prestigio, pero esto no siempre se traduce en altas ventas. Por ejemplo, marcas de lujo como BMW o Mercedes-Benz podrían generar mucho interés en Google, pero sus ventas dependerán de un segmento de mercado más específico.
 
+## Conclusión del proyecto:
+A través del procesamiento de datos en bruto, la limpieza de la información y la comparación con las tendencias de búsqueda en Google Trends, hemos podido sacar varias observaciones importantes:
+
+- ¿Qué automóvil es líder del mercado en estas fechas?
 
 
 
