@@ -95,6 +95,7 @@ Ejemplo de resultado obtenido:
 
 - La siguiente etapa incluye la limpieza de datos directamente a través del código en Python. El análisis también se llevará a cabo en este entorno.
 Para ello, utilizaré la biblioteca **pandas**, que me permitirá crear un **DataFrame** con el que trabajaré posteriormente durante el análisis.
+
 [Este código realiza las siguientes tareas:](https://github.com/elena210910/dgt_google-trands/blob/main/df_create.py)
 Carga de datos de los archivos creados anteriormente, asigna los nombres a las columnas, limpia las columnas de texto eliminando prefijos innecesarios y espacios, normaliza las cadenas convirtiéndolas a mayúsculas, identifica las 5 marcas más populares por cantidad registrada,
 encuentra los 3 modelos más vendidos de la marca TOYOTA, analiza las 3 regiones principales con más ventas para cada uno de estos modelos.
@@ -121,6 +122,7 @@ Google Trends asigna una puntuación que varía de 0 a 100, donde un valor más 
 A partir de esta evaluación, construiremos gráficos 📈 combinando los datos de nuestro DataFrame con los resultados de Google Trends. Nos centraremos en el análisis de las marcas con mayor cantidad de vehículos matriculados, como Toyota, que ocupa el primer lugar, y Renault, que ocupa el segundo. Además, incluiremos la marca KIA, que no logró posicionarse entre las Top 5 marcas de vehículos matriculados, para observar cómo se compara su interés de búsqueda con el número de matriculaciones.
 
 [Este código](https://github.com/elena210910/dgt_google-trands/blob/main/google_data.py) utiliza Google Trends para obtener el interés de búsqueda en España de las palabras clave seleccionadas (Toyota, Renault, Kia) durante el período del 2 al 26 de diciembre de 2024, coincidiendo con los datos de matriculaciones. Es importante destacar que las letras mayúsculas o minúsculas no afectan el resultado de las búsquedas.
+
 [Aqui tenemos un ejemplo de codigo para construir grafico interactivo](https://github.com/elena210910/dgt_google-trands/blob/main/chart.py)
 
 &nbsp;
@@ -175,7 +177,7 @@ Este proceso nos permitirá estructurar los datos para realizar un análisis má
 
 &nbsp;
 
-✔️ Al analizar los datos con y sin duplicados, se puede concluir que los 10 automóviles líderes en**ambas tablas son los mismos**. Aunque cambian de posición, siguen perteneciendo al **top 10**.
+✔️ Al analizar los datos con y sin duplicados, se puede concluir que los **9 automóviles líderes** en ambas tablas son los mismos. Aunque cambian de posición, siguen perteneciendo **al top 10.**
 
 &nbsp;
 
