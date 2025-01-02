@@ -125,10 +125,10 @@ A partir de esta evaluación, construiremos gráficos 📈 combinando los datos 
 
 &nbsp;
 
-😊✅✨[Definitivamente Podemos observar el resultado visual](https://sparkling-conkies-21fc82.netlify.app/) ⬅️      ![](https://github.com/elena210910/dgt_google-trands/blob/main/arrow_small.png)  
+😊✅✨[Definitivamente Podemos observar el resultado visual](https://sparkling-conkies-21fc82.netlify.app/) ⬅️      ![](https://github.com/elena210910/dgt_google-trands/blob/main/arrow_small_2.png)  
                                                                          
 
-                                                           (https://github.com/elena210910/dgt_google-trands/blob/main/arrow_small.png)
+                                                           
 
 &nbsp;
 &nbsp;
