@@ -163,3 +163,9 @@ Este proceso nos permitirá estructurar los datos para realizar un análisis má
 [**la tabla con duplicados**](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Felena210910%2Fdgt_google-trands%2Frefs%2Fheads%2Fmain%2Ftop_ventas.xlsx&wdOrigin=BROWSELINK) 
 
 
+## Bueno, ahora, basándome en todo lo realizado, haré algunos análisis y conclusiones analíticas.
+
+✔️ Entre el **2 de diciembre y el 26 de diciembre 2024**, según los datos proporcionados por la **DGT**, se puede destacar que **Toyota** es la marca líder en el registro de vehículos nuevos durante este período. Además, dentro de los modelos, el **TOYOTA C-HR** se posiciona como el indiscutible número uno, consolidándose como el modelo más matriculado en España.
+
+![](https://github.com/elena210910/dgt_google-trands/blob/main/Toyota_resized_400x300.jpg)
+
