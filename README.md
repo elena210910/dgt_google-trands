@@ -141,7 +141,7 @@ A partir de esta evaluación, construiremos gráficos 📈 combinando los datos 
 
 📋La segunda tabla contendrá datos ***sin duplicados***.
 
-Cada tabla tendrá las siguientes columnas:
+<u>Cada tabla tendrá las siguientes columnas:</u>
 
 
 **Top-Marca** — el nombre de la marca.
