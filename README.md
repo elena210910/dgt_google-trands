@@ -126,6 +126,7 @@ A partir de esta evaluación, construiremos gráficos 📈 combinando los datos 
 &nbsp;
 &nbsp;
 &nbsp;
+
 😊✅✨[Definitivamente Podemos observar el resultado visual](https://sparkling-conkies-21fc82.netlify.app/) ⬅️
 
 &nbsp;
@@ -138,6 +139,7 @@ La primera tabla incluirá datos con duplicados.
 La segunda tabla contendrá datos sin duplicados.
 
 Cada tabla tendrá las siguientes columnas:
+
 
 **Top-Marca** — el nombre de la marca.
 **Cantidad Marca** — el número total de vehículos registrados de esta marca.
