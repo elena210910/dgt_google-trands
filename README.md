@@ -128,7 +128,7 @@ A partir de esta evaluación, construiremos gráficos 📈 combinando los datos 
 &nbsp;
 
 
-
+&nbsp;
 😊✅✨[Definitivamente Podemos observar el resultado visual](https://sparkling-conkies-21fc82.netlify.app/) ⬅️
 
 &nbsp;
@@ -137,8 +137,8 @@ A partir de esta evaluación, construiremos gráficos 📈 combinando los datos 
 
 - En esta etapa, crearemos dos tablas con las 10 principales marcas de automóviles:
 
-La primera tabla incluirá datos con duplicados.
-La segunda tabla contendrá datos sin duplicados.
+La primera tabla incluirá datos ***con duplicados***.
+La segunda tabla contendrá datos ***sin duplicados***.
 
 Cada tabla tendrá las siguientes columnas:
 
