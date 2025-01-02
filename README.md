@@ -122,13 +122,9 @@ A partir de esta evaluación, construiremos gráficos 📈 combinando los datos 
 
 [Este código](https://github.com/elena210910/dgt_google-trands/blob/main/google_data.py) utiliza Google Trends para obtener el interés de búsqueda en España de las palabras clave seleccionadas (Toyota, Renault, Kia) durante el período del 2 al 26 de diciembre de 2024, coincidiendo con los datos de matriculaciones. Es importante destacar que las letras mayúsculas o minúsculas no afectan el resultado de las búsquedas.
 [Aqui tenemos un ejemplo de codigo para construir grafico interactivo](https://github.com/elena210910/dgt_google-trands/blob/main/chart.py)
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-
 
 &nbsp;
+
 😊✅✨[Definitivamente Podemos observar el resultado visual](https://sparkling-conkies-21fc82.netlify.app/) ⬅️
 
 &nbsp;
